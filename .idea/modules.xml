@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScalaDemo/ScalaDemo.iml" filepath="$PROJECT_DIR$/ScalaDemo/ScalaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Watcher/Watcher.iml" filepath="$PROJECT_DIR$/Watcher/Watcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/displayer/displayer.iml" filepath="$PROJECT_DIR$/displayer/displayer.iml" />
+    </modules>
+  </component>
+</project>
